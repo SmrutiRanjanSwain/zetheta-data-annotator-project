@@ -1,0 +1,16 @@
+
+PROJECT SUMMARY
+
+Total Documents: 200
+
+Document Categories:
+8
+
+Total Entity Types:
+22
+
+IAA Score:
+0.78
+
+Project Status:
+Completed

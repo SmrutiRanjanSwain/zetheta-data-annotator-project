@@ -1,0 +1,17 @@
+[
+    {
+        "case": "OCR Corrupted Date",
+        "example": "0l/O3/2O26",
+        "resolution": "2026-03-01"
+    },
+    {
+        "case": "Ambiguous Currency",
+        "example": "$5000",
+        "resolution": "Infer using institution context"
+    },
+    {
+        "case": "Incorrect Computation",
+        "example": "10000 + 1800 = 11900",
+        "resolution": "Annotate values exactly as written"
+    }
+]

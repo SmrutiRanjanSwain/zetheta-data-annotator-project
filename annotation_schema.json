@@ -1,0 +1,30 @@
+{
+    "title": "Financial Annotation Schema",
+    "type": "object",
+    "properties": {
+        "document_id": {
+            "type": "string"
+        },
+        "document_type": {
+            "type": "string"
+        },
+        "party_name": {
+            "type": "string"
+        },
+        "institution_name": {
+            "type": "string"
+        },
+        "amount": {
+            "type": "number"
+        },
+        "currency": {
+            "type": "string"
+        },
+        "date": {
+            "type": "string"
+        },
+        "account_number": {
+            "type": "string"
+        }
+    }
+}
